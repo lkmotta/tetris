@@ -1,6 +1,6 @@
 <h1 style="font-size: 2em;font-family: Verdana, Geneva, Tahoma, sans-serif;padding-bottom: 0;margin-bottom: 0;" align="center">TETRIS</h1>
 
-<p style="font-size: 1.1em;padding-bottom:1em;border-bottom:grey solid 1px;" align="center">developed by <a style="color: rgb(104, 0, 148); font-size: 1.5em;font-weight: bold;" href="https://github.com/LukaMotta">@LukaMotta</a></p>
+<p style="font-size: 1.1em;padding-bottom:1em;border-bottom:grey solid 1px;" align="center">developed by <a style="color: rgb(104, 0, 148); font-size: 1.5em;font-weight: bold;" href="https://github.com/lkmotta">@lkmotta</a></p>
 
 <p style="font-size: 1.1em;font-weight: bold;">
     Thanks for the help ~ <a style="text-decoration: underline;font-weight: normal;" href="https://www.freecodecamp.org/">Freecodecamp.org</a> | <a href="https://stackoverflow.com" style="text-decoration: underline;font-weight: normal;">StackOverflow</a>
