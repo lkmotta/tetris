@@ -431,8 +431,8 @@ def main_menu():
 system("cls")
 print(f"""
 ---------------------------------------
-Python Tetris by @LukaMotta ~ in GitHub
-https://github.com/LukaMotta
+Python Tetris by Lucas H. Motta
+https://github.com/lkmotta
 ---------------------------------------
 Pygame version: v{pygame.__version__}\n
 """)
